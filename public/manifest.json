@@ -1,0 +1,33 @@
+{
+  "name": "v0 App",
+  "short_name": "v0App",
+  "description": "Created with v0",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "apple_mobile_web_app_capable": "yes",
+  "apple_mobile_web_app_status_bar_style": "black-translucent",
+  "apple_mobile_web_app_title": "v0 App",
+  "apple_touch_icon": [
+    {
+      "sizes": "180x180",
+      "url": "/icons/apple-touch-icon.png"
+    }
+  ]
+} 
